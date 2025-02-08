@@ -40,46 +40,49 @@
     <link rel="stylesheet" href="../assets/css/styles.min.css">
 <script type="application/ld+json">
 {
-  "@type": "http://schema.org/Organization",
-  "http://schema.org/address": {
-    "@type": "http://schema.org/PostalAddress",
-    "http://schema.org/addressCountry": "ES"
+  "@context": "https://schema.org/",
+  "@type": "Course",
+  "name": "Grammar Class",
+  "description": "Engaging, interactive lessons that cover everything from basic to advanced topics, helping learners of all levels improve their English skills and confidently apply them in real-life situations.",
+  "provider": {
+    "@type": "Organization",
+    "name": "Nicole English Teach",
+    "url": "https://nicole-english-teach.github.io"
   },
-  "http://schema.org/contactPoint": {
-    "@type": "http://schema.org/ContactPoint",
-    "http://schema.org/availableLanguage": [
-      {
-        "@type": "http://schema.org/Language",
-        "http://schema.org/name": "Spanish"
+  "image": "https://nicole-english-teach.github.io/assets/img/base-logo/logo-owl2-spr.avif",
+  "offers": {
+    "@type": "Offer",
+    "category": "Paid",
+    "url": "https://nicole-english-teach.github.io/class/grammar.html",
+    "priceCurrency": "USD",
+    "price": "16",
+    "availability": "https://schema.org/InStock"
+  },
+  "datePublished": "2025-02-08",
+  "inLanguage": "en",
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Andrea"
       },
-      {
-        "@type": "http://schema.org/Language",
-        "http://schema.org/name": "English"
+      "reviewBody": "Nicole is an amazing person. A very good teacher. She's professional and kind.",
+      "datePublished": "2025-01-28",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Italki"
       }
-    ],
-    "http://schema.org/email": "nicole.english.teach@gmail.com"
-  },
-  "http://schema.org/description": "Learn English with Nicole, a native tutor who offers personalized classes for students of all levels. From grammar, conversation, and pronunciation, to interactive lessons for kids. With over 5 years of experience teaching on platforms like Italki and Preply, Nicole helps students from over 50 nationalities improve their English skills with confidence. Book your classes and improve your English with dynamic sessions tailored to your needs.",
-  "http://schema.org/email": "nicole.english.teach@gmail.com",
-  "http://schema.org/homepage": "https://nicole-english-teach.github.io/",
-  "http://schema.org/logo": {
-    "@id": "https://nicole-english-teach.github.io/assets/img/base-logo/logo-owl.png"
-  },
-  "http://schema.org/naics": "611630",
-  "http://schema.org/name": "Nicole's English Classes",
-  "http://schema.org/sameAs": [
-    {
-      "@id": "https://nicole-english-teach.github.io"
-    },
-    {
-      "@id": "https://www.italki.com/en/teacher/7387037"
-    },
-    {
-      "@id": "https://preply.com/en/tutor/217992"
     }
   ],
-  "http://schema.org/url": {
-    "@id": "https://nicole-english-teach.github.io/"
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "courseMode": "online",
+    "courseWorkload": "PT50M",
+    "instructor": {
+      "@type": "Person",
+      "name": "Nicole"
+    }
   }
 }
 </script>
