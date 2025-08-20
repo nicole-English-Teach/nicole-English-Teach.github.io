@@ -13,9 +13,9 @@
   gtag('config', 'G-NXGWJPYXKJ');
 </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Team - Nicole's English Classes</title>
-    <link rel="canonical" href="https://nicole-english-teach.github.io/tutor.html">
-    <meta property="og:url" content="https://nicole-english-teach.github.io/tutor.html">
+    <title>Class Options - Nicole's English Classes</title>
+    <link rel="canonical" href="https://nicole-english-teach.github.io/class/">
+    <meta property="og:url" content="https://nicole-english-teach.github.io/class/">
     <meta property="og:description" content="Learn English with Nicole, a native tutor who offers personalized classes for students of all levels. From grammar, conversation, and pronunciation, to interactive lessons for kids. With over 5 years of experience teaching on platforms like Italki and Preply, Nicole helps students from over 50 nationalities improve their English skills with confidence. Book your classes and improve your English with dynamic sessions tailored to your needs.">
     <meta name="twitter:image" content="https://nicole-english-teach.github.io/assets/img/base-logo/logo-owl2-Simple.png">
     <meta name="og:description" content="Master English with Nicole:Personalized Lessons for Every Learner">
@@ -32,52 +32,105 @@
     <meta name="msvalidate.01" content="301818443A1329E3B3FFEFAA835A9328">
     <meta name="description" content="Learn English with Nicole, a native tutor who offers personalized classes for students of all levels. From grammar, conversation, and pronunciation, to interactive lessons for kids. With over 5 years of experience teaching on platforms like Italki and Preply, Nicole helps students from over 50 nationalities improve their English skills with confidence. Book your classes and improve your English with dynamic sessions tailored to your needs.">
     <meta property="og:image" content="https://nicole-english-teach.github.io/assets/img/base-logo/logo-owl2-Simple.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/base-logo/Logo-Website%20(size%2016).png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/base-logo/Logo-Website%20(size%2016).png" media="(prefers-color-scheme: dark)">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/base-logo/Logo-Website%20(size%2032).png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/base-logo/Logo-Website%20(size%2032).png" media="(prefers-color-scheme: dark)">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/styles.min.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/img/base-logo/Logo-Website%20(size%2016).png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/img/base-logo/Logo-Website%20(size%2016).png" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/img/base-logo/Logo-Website%20(size%2032).png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/img/base-logo/Logo-Website%20(size%2032).png" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/fonts/typicons.min.css">
+    <link rel="stylesheet" href="../assets/css/styles.min.css">
 </head>
 
 <body>
     <nav class="navbar navbar-expand-md sticky-top py-3 navbar-shrink" id="mainNav" style="background-color: var(--bs-dark);">
-        <div class="container"><a class="navbar-brand d-flex align-items-center text-light" href="/"><span class="bs-icon-circle bs-icon-primary shadow d-flex justify-content-center align-items-center me-2 bs-icon bs-icon-md" style="background: var(--bs-primary);"><img class="rounded-circle" style="width: 1.8em;" src="assets/img/base-logo/logo-owl2-Simple.png" alt="logo of the page"></span><span>Nicole's English Classes</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-2"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+        <div class="container"><a class="navbar-brand d-flex align-items-center text-light" href="/"><span class="bs-icon-circle bs-icon-primary shadow d-flex justify-content-center align-items-center me-2 bs-icon bs-icon-md" style="background: var(--bs-primary);"><img class="rounded-circle" style="width: 1.8em;" src="../assets/img/base-logo/logo-owl2-Simple.png" alt="logo of the page"></span><span>Nicole's English Classes</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-2"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navcol-2">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item"><a class="nav-link text-light" href="/index.html">Home</a></li>
                     <li class="nav-item"><a class="nav-link text-light" href="/class.html">Class Options</a></li>
                     <li class="nav-item"><a class="nav-link text-light" href="schedule.html">Book your Class</a></li>
-                    <li class="nav-item"><a class="nav-link active text-light" href="tutor.html">Your Tutor</a></li>
+                    <li class="nav-item"><a class="nav-link text-light" href="tutor.html">Your Tutor</a></li>
                 </ul>
             </div>
         </div>
     </nav>
     <section class="py-5">
-        <div class="container py-5">
+        <div class="container">
             <div class="row mb-4 mb-lg-5">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
-                    <p class="fw-bold text-success mb-2">Get to Know your Tutor</p>
-                    <h1 class="fw-bold">Meet Your Tutor</h1>
+                    <h1 class="fw-bold">Welcome</h1>
                 </div>
             </div>
-            <div class="row mx-auto" style="max-width: 700px;">
-                <div class="col">
-                    <div class="col-12"><img class="rounded me-2 mt-4 float-start fit-cover imgshadow" width="150" height="150" src="assets/img/team/avatar2.avif" alt="Presentation image of Nicole">
-                        <h2 class="fw-bold ms-0 ps-0 mb-0"><strong>Nicole</strong></h2>
-                        <p class="text-muted">Hello! I’m Nicole, originally from the USA and now living in beautiful Spain. I hold a Master’s degree in Speech Therapy, which equips me with a deep understanding of effective communication techniques. With my background and passion for teaching, I’m excited to help you improve your English skills in a supportive and engaging way.<br>When I’m not teaching, you can find me exploring new places, hiking through nature, running, swimming, or spending quality time with my friends and family. I believe in making learning English a rewarding and enjoyable experience, and I’m here to support you every step of the way. Let’s embark on this language journey together!<br><br></p>
-                    </div>
-                </div>
-            </div>
-            <hr>
             <div class="row">
-                <div class="col-md-6 border-start border-dark">
-                    <h2 class="fw-bold">Professional Background</h2>
-                    <p class="text-muted">I am dedicated English teacher with a strong background in Speech Therapy and Spanish. I hold a Bachelor’s degree in Speech Therapy and Spanish and a Master’s degree in Speech Therapy. My specialized knowledge in speech therapy gives me a unique insight into the mechanics of language, which I bring into my teaching of English as a second language.<br><br>Since January 2020, I have been passionate about helping students of all levels master English. My teaching journey began with two online platforms, Italki and Preply, and I have since expanded my experience to include both in-person and online classes. Living abroad in Chile and now in Spain has enriched my understanding of language learning from diverse cultural perspectives, which I incorporate into my teaching.<br><br>My expertise covers a wide range of areas, including grammar, pronunciation, and conversation classes, tailored to both adults and children. I believe in creating a supportive and engaging learning environment where students feel empowered to achieve their language goals. Whether you’re a beginner or looking to refine your skills, I’m here to guide you every step of the way.</p>
+                <div class="col-md-8 col-xl-6 text-center mx-auto">
+                    <p class="text-muted">Welcome to Nicole's English Classes! I’m excited to help you improve your English skills in a friendly and personalized setting. Whether you're aiming to boost your fluency, enhance your pronunciation, or start from scratch, I’m here to guide you every step of the way. Let’s embark on this learning journey together and make English enjoyable and rewarding!</p>
                 </div>
-                <div class="col-md-6 border-start border-dark">
-                    <h2 class="fw-bold">Teaching Style</h2>
-                    <p class="text-muted">In my English classes, I cater every lesson to your specific goals and needs. Whether you're a beginner aiming to build a strong foundation, an advanced learner refining your pronunciation, or a parent looking for engaging classes for your child, I will work with you to create a personalized learning plan that fits your unique objectives.<br><br>I offer four types of classes: Grammar, Pronunciation, Conversation, and Classes for Children. No matter the focus, my teaching philosophy revolves around 'functional communication'—meaning I prioritize teaching you the English that you will actually use in your daily life. This approach ensures that what you learn in class can be immediately applied outside of it.<br><br>The most important aspect of my classes is making sure you feel comfortable and confident speaking English. Each session is designed to be a supportive space where you can practice and improve without pressure. We’ll also include an application activity in every class, where you'll actively use the topic or material we've covered, reinforcing your learning in a practical, hands-on way.<br><br>With me, you'll not only learn English but also gain the confidence to use it effectively in real-life situations.</p>
+            </div>
+        </div>
+    </section>
+    <section class="py-5" style="background-color: var(--bs-secondary-bg);">
+        <div class="container text-center">
+            <h2 class="fw-bold text-center">Check The Booking Options</h2>
+            <p>Check out our class options that best suit your preferences</p>
+            <div class="row">
+                <div class="col-md-8 col-xl-6 text-center mx-auto">
+                    <p class="fw-bold text-success mb-2">Class package</p><a class="btn btn-primary w-75 mt-2 mb-2" role="button" href="schedule.html#class-package">Check out the Class Packages</a>
+                </div>
+                <div class="col-md-8 col-xl-6 text-center mx-auto">
+                    <p class="fw-bold text-success mb-2">Individual</p><a class="btn btn-primary w-75 mt-2 mb-2" role="button" href="https://calendar.app.google/Z2CNY5ChGaqEFZyRA" target="_blank">Access the Booking Manager</a>
+                </div>
+            </div>
+        </div>
+        <div class="row py-4">
+            <div class="col-md-8 col-xl-6 text-center mx-auto">
+                <p class="fw-bold text-success mb-2">Learning Paths</p>
+                <h3 class="fw-bold">Class Options</h3>
+            </div>
+        </div>
+        <div class="container py-5 bg-primary-gradient">
+            <div class="p-lg-5">
+                <div class="row row-cols-1 row-cols-md-2 mx-auto" style="max-width: 900px;">
+                    <div class="col mb-5">
+                        <div class="card shadow-sm">
+                            <div class="card-body px-4 px-md-5 py-5">
+                                <div class="bs-icon-lg d-flex justify-content-center align-items-center mb-3 bs-icon" style="top: 1rem;right: 1rem;position: absolute;"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-alphabet-uppercase text-success">
+                                        <path d="M1.226 10.88H0l2.056-6.26h1.42l2.047 6.26h-1.29l-.48-1.61H1.707l-.48 1.61ZM2.76 5.818h-.054l-.75 2.532H3.51zm3.217 5.062V4.62h2.56c1.09 0 1.808.582 1.808 1.54 0 .762-.444 1.22-1.05 1.372v.055c.736.074 1.365.587 1.365 1.528 0 1.119-.89 1.766-2.133 1.766h-2.55ZM7.18 5.55v1.675h.8c.812 0 1.171-.308 1.171-.853 0-.51-.328-.822-.898-.822zm0 2.537V9.95h.903c.951 0 1.342-.312 1.342-.909 0-.591-.382-.954-1.095-.954H7.18Zm5.089-.711v.775c0 1.156.49 1.803 1.347 1.803.705 0 1.163-.454 1.212-1.096H16v.12C15.942 10.173 14.95 11 13.607 11c-1.648 0-2.573-1.073-2.573-2.849v-.78c0-1.775.934-2.871 2.573-2.871 1.347 0 2.34.849 2.393 2.087v.115h-1.172c-.05-.665-.516-1.156-1.212-1.156-.849 0-1.347.67-1.347 1.83Z"></path>
+                                    </svg></div>
+                                <h4 class="fw-bold mt-3 card-title">Grammar Class: Master the building blocks of English&nbsp;</h4>
+                                <p class="text-muted mb-4 card-text">Engaging, interactive lessons that cover everything from basic to advanced topics, helping learners of all levels improve their English skills and confidently apply them in real-life situations.</p><a class="btn btn-success shadow" role="button" href="class/grammar.html" title="Learn more about the Grammar Class">Grammar - Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card shadow-sm">
+                            <div class="card-body px-4 px-md-5 py-5">
+                                <div class="bs-icon-lg d-flex justify-content-center align-items-center mb-3 bs-icon" style="top: 1rem;right: 1rem;position: absolute;"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 20 20" fill="none" class="text-success">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M18 3C18 2.65342 17.8205 2.33156 17.5257 2.14935C17.2309 1.96714 16.8628 1.95058 16.5528 2.10557L8.76393 6H5C3.34315 6 2 7.34315 2 9C2 10.6569 3.34315 12 5 12H5.27925L7.05132 17.3162C7.18744 17.7246 7.56958 18 8.00001 18H9.00001C9.55229 18 10 17.5523 10 17V12.618L16.5528 15.8944C16.8628 16.0494 17.2309 16.0329 17.5257 15.8507C17.8205 15.6684 18 15.3466 18 15V3Z" fill="currentColor"></path>
+                                    </svg></div>
+                                <h4 class="fw-bold mt-3 card-title">Conversation Class: Speak English with Confidence</h4>
+                                <p class="text-muted mb-4 card-text">Dynamic, interactive sessions where you can practice speaking English fluently and confidently on a variety of topics, with personalized feedback to help you improve vocabulary, pronunciation, and overall communication skills in real-life situations.</p><a class="btn btn-success shadow" role="button" href="class/conversation.html" title="Learn more about the Conversation Class">Conversation - Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card shadow-sm">
+                            <div class="card-body px-4 px-md-5 py-5">
+                                <div class="bs-icon-lg d-flex justify-content-center align-items-center mb-3 bs-icon" style="top: 1rem;right: 1rem;position: absolute;"><i class="typcn typcn-arrow-repeat text-success"></i></div>
+                                <h4 class="fw-bold mt-3 card-title">Pronunciation Class: Speak clearly and be understood</h4>
+                                <p class="text-muted mb-4 card-text">Classes are led by a trained speech-language pathologist and provide targeted exercises and personalized coaching to help you improve your accent, use stress and intonation effectively, and achieve clear, confident English speech that is easily understood by native speakers.</p><a class="btn btn-success shadow" role="button" href="class/pronunciation.html" title="Learn more about the Pronunciation Class">Pronunciation - Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mb-5">
+                        <div class="card shadow-sm">
+                            <div class="card-body px-4 px-md-5 py-5">
+                                <div class="bs-icon-lg d-flex justify-content-center align-items-center mb-3 bs-icon" style="top: 1rem;right: 1rem;position: absolute;"><i class="fa fa-child text-success"></i></div>
+                                <h4 class="fw-bold mt-3 card-title">Classes for Children: Learning with fun and confidence</h4>
+                                <p class="text-muted mb-4 card-text">Classes for children ages 4 to 16 provide engaging, age-appropriate lessons that build language skills through fun activities for young learners, expand vocabulary and communication for older children, and focus on real-world language use and critical thinking for teens, all in a supportive and nurturing environment.</p><a class="btn btn-success shadow" role="button" href="class/children.html" title="Learn more about Classes for Children">Children - Learn more</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -95,7 +148,7 @@
                     <ul class="list-unstyled">
                         <li>
                             <div class="d-flex align-items-center p-3"><a href="https://www.italki.com/en/teacher/7387037" target="_blank" rel="external" title="Check out Italki's profile">
-                                    <div class="bs-icon-md bs-icon-circle bs-icon-primary shadow d-flex flex-shrink-0 justify-content-center align-items-center d-inline-block bs-icon bs-icon-md"><img src="assets/img/brands/Italki-2023.webp" style="width: 1.8em;" alt="logo of Italki"></div>
+                                    <div class="bs-icon-md bs-icon-circle bs-icon-primary shadow d-flex flex-shrink-0 justify-content-center align-items-center d-inline-block bs-icon bs-icon-md"><img src="../assets/img/brands/Italki-2023.webp" style="width: 1.8em;" alt="logo of Italki"></div>
                                 </a>
                                 <div class="px-2"><a href="https://www.italki.com/en/teacher/7387037" target="_blank" rel="external" title="Check out Italki's profile">
                                         <h6 class="fw-bold mb-0" style="color: var(--bs-body-color);">Italki</h6>
@@ -106,7 +159,7 @@
                         </li>
                         <li>
                             <div class="d-flex align-items-center p-3"><a href="https://preply.com/en/tutor/217992" target="_blank" rel="external" title="Check out Preply's profile">
-                                    <div class="bs-icon-md bs-icon-circle bs-icon-primary shadow d-flex flex-shrink-0 justify-content-center align-items-center d-inline-block bs-icon bs-icon-md"><img src="assets/img/brands/Preply-2023.png" style="width: 1.8em;" alt="logo of Preply"></div>
+                                    <div class="bs-icon-md bs-icon-circle bs-icon-primary shadow d-flex flex-shrink-0 justify-content-center align-items-center d-inline-block bs-icon bs-icon-md"><img src="../assets/img/brands/Preply-2023.png" style="width: 1.8em;" alt="logo of Preply"></div>
                                 </a>
                                 <div class="px-2"><a href="https://preply.com/en/tutor/217992" target="_blank" rel="external" title="Check out Preply's profile">
                                         <h6 class="fw-bold mb-0" style="color: var(--bs-body-color);">Preply</h6>
@@ -182,7 +235,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-3 offset-lg-3 text-center text-lg-start d-flex flex-column align-items-center order-first align-items-lg-start order-lg-last">
-                    <div class="fw-bold d-flex align-items-center mb-2"><span class="bs-icon-circle bs-icon-primary shadow d-flex justify-content-center align-items-center me-2 bs-icon bs-icon-md" style="background: var(--bs-primary);"><img class="rounded-circle" style="width: 1.8em;" src="assets/img/base-logo/logo-owl2-Simple.png" alt="logo of the page"></span><span>Nicole's English Classes</span></div>
+                    <div class="fw-bold d-flex align-items-center mb-2"><span class="bs-icon-circle bs-icon-primary shadow d-flex justify-content-center align-items-center me-2 bs-icon bs-icon-md" style="background: var(--bs-primary);"><img class="rounded-circle" style="width: 1.8em;" src="../assets/img/base-logo/logo-owl2-Simple.png" alt="logo of the page"></span><span>Nicole's English Classes</span></div>
                     <p class="text-muted">Personalized Lessons for Every Learner</p>
                 </div>
             </div>
@@ -192,8 +245,8 @@
             </div>
         </div>
     </footer>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/js/script.min.js"></script>
+    <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../assets/js/script.min.js"></script>
 </body>
 
 </html>
