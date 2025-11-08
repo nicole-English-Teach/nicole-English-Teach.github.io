@@ -39,14 +39,15 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-md sticky-top py-3 navbar-shrink" id="mainNav" style="background-color: var(--bs-dark);">
-        <div class="container"><a class="navbar-brand d-flex align-items-center text-light" href="/"><span class="bs-icon-circle bs-icon-primary shadow d-flex justify-content-center align-items-center me-2 bs-icon bs-icon-md" style="background: var(--bs-primary);"><img class="rounded-circle" style="width: 1.8em;" src="assets/img/base-logo/logo-owl2-Simple.png" alt="logo of the page"></span><span>Nicole's English Classes</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-2"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+    <nav class="navbar navbar-expand-md sticky-top py-3 navbar-shrink navbar-dark" id="mainNav" style="background-color: var(--bs-dark);">
+        <div class="container"><a class="navbar-brand d-flex align-items-center text-light" href="/"><span class="bs-icon-circle bs-icon-primary shadow d-flex justify-content-center align-items-center me-2 bs-icon bs-icon-md" style="background: var(--bs-primary);"><img class="rounded-circle" style="width: 1.8em;" src="assets/img/base-logo/logo-owl2-Simple.png" alt="logo of the page"></span><span>Nicole's English Classes</span></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-2"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon" style="color: var(--bs-info);"></span></button>
             <div class="collapse navbar-collapse" id="navcol-2">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item"><a class="nav-link text-light" href="/index.html">Home</a></li>
                     <li class="nav-item"><a class="nav-link text-light" href="/class.html">Class Options</a></li>
-                    <li class="nav-item"><a class="nav-link text-light" href="schedule.html">Book your Class</a></li>
-                    <li class="nav-item"><a class="nav-link active text-light" href="tutor.html">Your Tutor</a></li>
+                    <li class="nav-item"><a class="nav-link text-light" href="/schedule.html">Book your Class</a></li>
+                    <li class="nav-item"><a class="nav-link text-light" href="/material/index.html">Material</a></li>
+                    <li class="nav-item"><a class="nav-link active text-light" href="/tutor.html" rel="author">Your Tutor</a></li>
                 </ul>
             </div>
         </div>
@@ -81,17 +82,17 @@
         </div>
     </section>
     <section class="py-5" style="background-color: var(--bs-secondary-bg);">
-        <div class="container py-5">
+        <div class="container py-3">
             <div class="row mb-5">
                 <div class="col-md-8 col-xl-6 text-center mx-auto">
                     <p class="fw-bold text-success mb-2">More Information</p>
                     <h2 class="fw-bold">How you can reach us</h2>
                 </div>
             </div>
-            <div class="row d-flex justify-content-center">
+            <div class="row gy-1 row-cols-1 row-cols-md-1 row-cols-xl-3 justify-content-center">
                 <div class="col">
-                    <div class="row gy-2 justify-content-center">
-                        <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body" style="background-color: var(--bs-secondary-bg);">
                             <ul class="list-unstyled">
                                 <li>
                                     <div class="d-flex align-items-center p-3"><a href="https://www.italki.com/en/teacher/7387037" target="_blank" rel="external" title="Check out Italki's profile">
@@ -100,7 +101,7 @@
                                         <div class="px-2"><a href="https://www.italki.com/en/teacher/7387037" target="_blank" rel="external" title="Check out Italki's profile">
                                                 <h6 class="fw-bold mb-0" style="color: var(--bs-body-color);">Italki</h6>
                                             </a>
-                                            <p class="text-muted mb-0">More than 2,400 lessons taught</p>
+                                            <p class="text-muted mb-0">More than 2,500 lessons taught</p>
                                         </div>
                                     </div>
                                 </li>
@@ -111,23 +112,29 @@
                                         <div class="px-2"><a href="https://preply.com/en/tutor/217992" target="_blank" rel="external" title="Check out Preply's profile">
                                                 <h6 class="fw-bold mb-0" style="color: var(--bs-body-color);">Preply</h6>
                                             </a>
-                                            <p class="text-muted mb-0">More than 2,800 lessons taught</p>
+                                            <p class="text-muted mb-0">More than 3,200 lessons taught</p>
                                         </div>
                                     </div>
                                 </li>
                             </ul>
                         </div>
-                        <div class="col-md-4" style="min-width: 360px;">
-                            <div>
-                                <div class="mb-3">
-                                    <p class="my-3" style="text-align: center;font-weight: bold;font-size: larger;">Leave us your comment on Google</p>
-                                </div>
-                                <form class="p-xl-4 ps-3 pe-3 my-0 py-2" method="post" data-bs-theme="light">
-                                    <div><a class="btn btn-primary shadow w-100 d-block" role="button" href="https://g.page/r/CRg0WXnNPKnlEBM/review" target="_blank">Leave comments</a></div>
-                                </form>
+                    </div>
+                </div>
+                <div class="col" style="min-width: 360px;">
+                    <div class="card h-100">
+                        <div class="card-body" style="background-color: var(--bs-secondary-bg);">
+                            <div class="mb-3">
+                                <p class="my-3" style="text-align: center;font-weight: bold;font-size: larger;">Leave us your comment on Google</p>
                             </div>
+                            <form class="p-xl-4 ps-3 pe-3 my-0 py-2" method="post" data-bs-theme="light">
+                                <div><a class="btn btn-primary shadow w-100 d-block" role="button" href="https://g.page/r/CRg0WXnNPKnlEBM/review" target="_blank">Leave comments</a></div>
+                            </form>
                         </div>
-                        <div class="col-md-4">
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100">
+                        <div class="card-body" style="background-color: var(--bs-secondary-bg);">
                             <ul class="list-unstyled">
                                 <li>
                                     <div class="d-flex align-items-center p-3"><a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ1ldBhz6Nqrirp5FHlqkbiP3UdLluFdmroMV_I=" rel="external" target="_blank" title="Check the appointment calendar">
